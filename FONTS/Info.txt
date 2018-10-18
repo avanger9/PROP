@@ -1,0 +1,3 @@
+A la carpeta Projecte hi ha el projecte de Netbeans
+
+A la carpeta SOURCE, els codis, amb un subdirectori per cada membre del grup

@@ -1,0 +1,10 @@
+Què vols fer?
+1: generar hidato
+2: validar hidato
+3: resoldre hidato
+4: llegir hidato
+5: mostrar hidato
+6: FAQ
+Introdueix com vols que sigui l'hidato
+Seguint el format de la primera línia d'un hidato que dóna l'enunciat
+Per exemple, H,C,3,4
